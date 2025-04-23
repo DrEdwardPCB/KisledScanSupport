@@ -1,0 +1,49 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 700px;
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .app-icon {
+    width: 150px;
+    height: 150px;
+    border-radius: 24px;
+    margin-bottom: 1rem;
+  }
+  
+  .app-name {
+    font-size: 2.5rem;
+    color: #007c8c;
+    margin: 0.5rem 0;
+  }
+  
+  .description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 2rem;
+  }
+  
+  .privacy-policy h2 {
+    color: #007c8c;
+  }
+  
+  .privacy-policy p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  
+  footer {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
